@@ -2,6 +2,7 @@
 
 #######################################
 # Bash script to install an Apache Solr in Ubuntu
+# Solr Version: 6.6.5
 # Author: Subhash (serverkaka.com)
 
 # Check if running as root
